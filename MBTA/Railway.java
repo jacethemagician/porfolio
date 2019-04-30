@@ -1,12 +1,4 @@
-
-//Zhaoyang Liu
-//zliu21@brandeis.edu
-//02-06-2019
-//PA1
-/* Explanation Railway class Object */
-/* Known Bugs: none */
-
-package PA1;
+//Jace Yang, jaceyang@brandeis.edu
 
 public class Railway {
     DoubleLinkedList<Station> railway;
