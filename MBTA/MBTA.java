@@ -1,13 +1,4 @@
-
-//Zhaoyang Liu
-//zliu21@brandeis.edu
-//02-06-2019
-//PA1
-/* Explanation: the main class that class methods */
-/* Known Bugs: none */
-//Almost, exactly matches the sample output.
-
-package PA1;
+//Jace Yang, jaceyang@brandeis.edu
 
 import java.io.*;
 import java.util.*;
