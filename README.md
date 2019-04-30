@@ -3,7 +3,8 @@ This repository is used to display personal projects
 
 /Self-made small program/
 
-FlappyBird
+FlappyBird - an abstract version of Flappy Bird
+    Use spacebar or leftmouse to make the bird flap its wing on time. The goal is to get score as high as possible.
 
 /Coursework/
 
