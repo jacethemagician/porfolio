@@ -1,12 +1,5 @@
+//Jace Yang, jaceyang@brandeis.edu
 
-//Zhaoyang Liu
-//zliu21@brandeis.edu
-//02-06-2019
-//PA1
-/* This class helps to implement Double Linked List */
-/* Known Bugs: none */
-
-package PA1;
 public class DoubleLinkedList<T> {
 	Node<T> head;
 	Node<T> tail;
