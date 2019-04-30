@@ -1,3 +1,6 @@
+//Jace Yang
+//magician@brandeis.edu
+
 package flappyBird;
 
 import java.awt.Graphics;
