@@ -2,9 +2,11 @@
 This repository is used to display personal projects
 
 /Self-made small program/
+
 FlappyBird
 
 /Coursework/
+
 MTBA (in progress)- a simulation of the Red Line for the MBTA
     Goal: To populate the stations with trains and passengers, then run simulation and print out a log of all the actions that occur during the simulation, including passenger and train movement.
 
