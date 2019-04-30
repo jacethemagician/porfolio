@@ -43,7 +43,7 @@ public class SplayNode<KeyType extends Comparable<KeyType>, DataType> {
   * @return SplayNode
   */
  public SplayNode<KeyType, DataType> search(KeyType key) {
-  int comp = this.key.compTo(key);
+  int comp = this.key.compareTo(key);
   if (comp == 0) {
    // When it is the right key
    splay();
@@ -74,7 +74,7 @@ public class SplayNode<KeyType extends Comparable<KeyType>, DataType> {
   * @return true if key is found, false if not
   */
  public boolean contains(KeyType key) {
-  int comp = this.key.compTo(key);
+  int comp = this.key.compareTo(key);
   if (comp == 0) {
    return true;
   } else if (comp > 0) { // If child is null then return false, if not continue searching
@@ -91,7 +91,7 @@ public class SplayNode<KeyType extends Comparable<KeyType>, DataType> {
   * @return SplayNode root
   */
  public SplayNode<KeyType, DataType> insert(SplayNode<KeyType, DataType> newNode) {
-  int comp = this.key.compTo(newNode.key);
+  int comp = this.key.compareTo(newNode.key);
   if (comp == 0) {
    // Key already exists
    return null;
