@@ -1,10 +1,4 @@
-//Jace Yang
-//magician@brandeis.edu
-//March 27, 2019
-//PA#2
-/* Explanation of the program/class */
-/* FullName class provided by instructor */
-/* Known Bugs: none */
+//Jace Yang, jaceyang@brandeis.edu
 
 public class FullName implements Comparable<FullName> {
  private String firstName;
