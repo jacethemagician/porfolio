@@ -1,10 +1,4 @@
-//Jace Yang
-//magician@brandeis.edu
-//March 27, 2019
-//PA#2
-/* Explanation of the program/class */
-//PhoneBook class essentially creates a SplayTree from SplayNode with key FullName and value PhoneNumber
-/* Known Bugs: none */
+//Jace Yang, jaceyang@brandeis.edu
 
 public class SplayNode<KeyType extends Comparable<KeyType>, DataType> {
 
