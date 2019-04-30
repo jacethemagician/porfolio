@@ -1,11 +1,4 @@
-//Jace Yang
-//magician@brandeis.edu
-//March 27, 2019
-//PA#2
-/* Explanation of the program/class */
-//PhoneBook class uses SplayNode with key FullName and value PhoneNumber
-//to creates a splay tree and make use of its function
-/* Known Bugs: none */
+//Jace Yang, jaceyang@brandeis.edu
 
 public class PhoneBook<FullName extends Comparable<FullName>, PhoneNumber> {
  
